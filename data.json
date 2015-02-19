@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "54e66250653b5cb637e78024" }, "date" : { "$date" : "2015-02-19T10:30:00.000-0500" }, "sets" : [ { "flights" : 12, "time" : 152 }, { "flights" : 12, "time" : 166 }, { "flights" : 12, "time" : 158 }, { "flights" : 12, "time" : 153 } ], "breaks" : [ { "time" : 227 }, { "time" : 312 }, { "time" : 456 } ] }
